@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World 👋
 I'm a Computer Science student at PJAIT (PJATK), majoring in AI, but deeply in love with low level programming and making nonsense one night projects.
 
 ## Tech Stack (I enjoy most of it)
