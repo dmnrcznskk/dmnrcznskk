@@ -1,7 +1,7 @@
 ## Hello World 👋
 I'm a Computer Science student at PJAIT (PJATK), majoring in AI, but deeply in love with low level programming and making nonsense one night projects.
 
-## Tech Stack (I enjoy most of it)
+### Tech Stack 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48"/>
